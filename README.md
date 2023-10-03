@@ -8,14 +8,21 @@
   <img src="https://komarev.com/ghpvc/?username=atikahas&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="about-me">
-  I am a Full Stack Web Developer.
+<div id="my-profile">
+  I am a Full Stack Web Developer 🇲🇾
   
   - 💻 I’m working as a Jr Software Engineer and contributing to frontend and backend for building web applications.
   
-  - :seedling: Exploring Technical Content Writing.
+  - 🌱 Exploring Technical Content Writing.
     
-  - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
     
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-atikahsubari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atikahsubari/)
+  - 📫 How to reach me: 
+    <a href="https://www.linkedin.com/in/atikahsubari/" target="_blank">
+      <img src="https://img.shields.io/badge/-atikahsubari-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+    </a>
+
+---
+
+  ### 🛠️ Languages and Tools :
 </div>
