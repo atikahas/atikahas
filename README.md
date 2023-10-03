@@ -5,17 +5,16 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=atikahas&style=flat-square&color=blue" alt=""/>
+  I am a Full Stack Web Developer 🇲🇾
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikahas/atikahas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikahas/atikahas/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div id="my-profile" align="center">
-  I am a Full Stack Web Developer 🇲🇾
-  
-  💻 I’m working as a Jr Software Engineer and contributing to frontend and backend for building web applications.
-  
-  🌱 Exploring Technical Content Writing.
-    
-  ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 ---
 
@@ -37,10 +36,10 @@
 ---
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atikahas&theme=radical)](https://git.io/streak-stats)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikahas&layout=compact&theme=radical)
 
-  ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/atikahas/atikahas/output/github-contribution-grid-snake.svg)
+  ![Atikah's GitHub stats](https://github-readme-stats.vercel.app/api?username=atikahas&show_icons=true&theme=radical&hide_title=true&rank_icon=github)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikahas&layout=compact&theme=radical)
+  
 
 
 
