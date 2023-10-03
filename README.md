@@ -35,7 +35,7 @@
 
 ---
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atikahas&theme=radical)](https://git.io/streak-stats)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atikahas&theme=radical)
 
   ![Atikah's GitHub stats](https://github-readme-stats.vercel.app/api?username=atikahas&show_icons=true&theme=radical&hide_title=true&rank_icon=github)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikahas&layout=compact&theme=radical)
