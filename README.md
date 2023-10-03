@@ -34,4 +34,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 
+---
+
+  ![Atikah's GitHub stats](https://github-readme-stats.vercel.app/api?username=atikahas&show_icons=true&theme=default&rank_icon=github&hide_title=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikahas&layout=compact&theme=default)
+
+
+
 </div>
