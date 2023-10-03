@@ -40,5 +40,8 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikahas&layout=compact&theme=radical)
 
+  ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/atikahas/atikahas/output/github-contribution-grid-snake.svg)
+
+
 
 </div>
