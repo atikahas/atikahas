@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  I am a Full Stack Web Developer 🇲🇾
+  Full Stack Web Developer 🇲🇾
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikahas/atikahas/output/github-contribution-grid-snake-dark.svg">
