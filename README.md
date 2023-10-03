@@ -18,7 +18,7 @@
 
 ---
 
-  ### 🛠️ Languages and Tools :
+  🛠️ Languages and Tools :
   <div>
     <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
