@@ -16,11 +16,6 @@
   - 🌱 Exploring Technical Content Writing.
     
   - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
-    
-  - 📫 How to reach me: 
-    <a href="https://www.linkedin.com/in/atikahsubari/" target="_blank">
-      <img src="https://img.shields.io/badge/-atikahsubari-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
-    </a>
 
 ---
 
