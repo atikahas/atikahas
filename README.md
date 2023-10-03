@@ -8,14 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=atikahas&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="my-profile">
+<div id="my-profile" align="center">
   I am a Full Stack Web Developer 🇲🇾
   
-  - 💻 I’m working as a Jr Software Engineer and contributing to frontend and backend for building web applications.
+  💻 I’m working as a Jr Software Engineer and contributing to frontend and backend for building web applications.
   
-  - 🌱 Exploring Technical Content Writing.
+  🌱 Exploring Technical Content Writing.
     
-  - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 ---
 
@@ -36,9 +36,8 @@
 
 ---
 
-  ![Atikah's GitHub stats](https://github-readme-stats.vercel.app/api?username=atikahas&show_icons=true&theme=default&rank_icon=github&hide_title=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikahas&layout=compact&theme=default)
-
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atikahas&theme=radical)](https://git.io/streak-stats)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikahas&layout=compact&theme=radical)
 
 </div>
